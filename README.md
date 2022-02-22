@@ -1,2 +1,2 @@
 # shyeon923.github.io
-shyeon923.github.io/index.html
+github.com/shyeon/shyeon923.github.io/index.html
